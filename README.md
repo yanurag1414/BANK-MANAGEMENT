@@ -46,21 +46,6 @@ The Bank Management System is a simple GUI application developed using Python an
     ```
 2. The application window will open, and you can start performing banking operations.
 
-## Screenshots
-### Home Screen
-![Home Screen](screenshots/home_screen.png)
-
-### Create Account
-![Create Account](screenshots/create_account.png)
-
-### Deposit Money
-![Deposit Money](screenshots/deposit_money.png)
-
-### Withdraw Money
-![Withdraw Money](screenshots/withdraw_money.png)
-
-### View Account Details
-![View Account Details](screenshots/view_account_details.png)
 
 ## Technologies Used
 - Python
